@@ -121,7 +121,7 @@ input[type=text]:focus{
      
     /* Full freedom. (works also with border-radius) */
   }
- @media only screen and (max-width:450px) {
+ @media only screen and (max-width: 375px){
     .head{
         background-color: azure;
           
